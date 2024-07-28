@@ -1,6 +1,8 @@
 # deployment
 ## dashboard
 ![](./screenshoot/dashboard.png)
+## invoices
+![](./screenshoot/invoices.png)
 
 ## Next.js App Router Course - Starter
 
