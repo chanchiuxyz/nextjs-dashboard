@@ -3,7 +3,8 @@
 ![](./screenshoot/dashboard.png)
 ## invoices
 ![](./screenshoot/invoices.png)
-
+## invoice create
+![](./screenshoot/invoiceCreate.png)
 ## Next.js App Router Course - Starter
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
