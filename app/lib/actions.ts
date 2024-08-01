@@ -22,6 +22,7 @@ import { redirect } from 'next/navigation';
                         return 'An error occurred'
                 }
         }
+        throw error
     }
 }
 
